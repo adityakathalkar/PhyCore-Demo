@@ -25,6 +25,10 @@ PhyCore is an Android-based physics learning application developed as a B.Sc. Co
 - 🎥 Demo Video: `Demo-Video.mp4`
 - 📸 Screenshots: Available in the `Screenshots` folder.
 
+- ## Demo Login Credentials
+- Email/ID: 'test@gmail.com'
+- Password: '123456'
+
 ## Note
 This repository is created to showcase the project demonstration. The source code is not publicly available.
 
